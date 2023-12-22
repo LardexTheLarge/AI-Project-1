@@ -1,4 +1,4 @@
-# Prophet Homework Challenge
+# Carbon Insight Collective
 
 ## Table of Contents
 
