@@ -16,6 +16,8 @@
 
 The Exploratory Data Analysis (EDA) project focuses on investigating the relationship between greenhouse gas emissions and carbon capture and storage activities. The aim is to gain insights into the trends, patterns, and potential impact of these environmental factors, contributing to a deeper understanding of climate-related data and initiatives.
 
+![output](https://github.com/LardexTheLarge/AI-Project-1/assets/100447639/9842d787-0516-42cf-990f-da6b02ab8201)
+
 ## Features
 
 - Explore historical trends and patterns in greenhouse gas emissions data.
