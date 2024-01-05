@@ -1,4 +1,4 @@
-# Carbon Insight Collective
+# Carbon Insight Collective - Exploratory Data Analysis
 
 ## Table of Contents
 
@@ -14,7 +14,17 @@
 
 ## Introduction
 
+The Exploratory Data Analysis (EDA) project focuses on investigating the relationship between greenhouse gas emissions and carbon capture and storage activities. The aim is to gain insights into the trends, patterns, and potential impact of these environmental factors, contributing to a deeper understanding of climate-related data and initiatives.
+
+![output](https://github.com/LardexTheLarge/AI-Project-1/assets/100447639/9842d787-0516-42cf-990f-da6b02ab8201)
+
 ## Features
+
+- Explore historical trends and patterns in greenhouse gas emissions data.
+- Analyze regional variations and correlations in greenhouse gas emissions.
+- Investigate carbon capture and storage methods and their impact on reducing emissions.
+- Assess the effectiveness and limitations of carbon storage facilities.
+- Visualize data using graphs, charts, and maps to enhance understanding and insights.
 
 ## Getting Started
 
@@ -27,20 +37,22 @@ To run the analysis scripts, you need to have Python installed on your system. T
 1. Clone the repository to your local machine:
 
 ```bash
-    git clone
+    git clone git@github.com:LardexTheLarge/AI-Project-1.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-    cd
+    cd AI-Project-1
 ```
 
 3. Run scripts inside each notebook.
 
+4. Create your own EDA notebooks
+
 ## Usage
 
-1. Open the prophet challenge file.
+1. Open the CCS project file.
 2. Run each notebook with the "run all" button.
 
 ## Documentation
@@ -49,7 +61,11 @@ The code is documented with inline comments to explain its functionality. You ca
 
 ## Contributing
 
-Contributions are not allowed for this project.
+Tania Raugewitz: traugewitz@gmail.com
+
+Haftom Ermias: haftomermias@gmail.com
+
+Gabriel Vasquez: 0gabevee0@gmail.com
 
 ## License
 
