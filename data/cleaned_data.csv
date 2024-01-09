@@ -3,88 +3,53 @@ Australia,2009,578.99,4.0
 Australia,2010,562.21,5.91
 Australia,2018,586.6,4.51
 Australia,2019,577.24,21.7
-Australia,2021,0.0,22.55
-Australia,2022,0.0,8.5
 Austria,2020,58.14,0.7
-Bahrain,2022,0.0,0.0
 Belgium,2011,100.54,0.125
 Belgium,2019,98.24,10.0
-Belgium,2021,0.0,1.42
-Belgium,2022,0.0,7.3
 Brazil,2011,1166.91,8.7
-Brazil,2021,0.0,0.0
-Bulgaria,2022,0.0,0.8
 Canada,2008,917.23,1.0
 Canada,2009,885.54,1.2
 Canada,2011,765.39,17.32
 Canada,2019,709.22,0.78
-Canada,2021,0.0,44.4
-Canada,2022,0.0,92.164
-Chile,2021,0.0,1.53
-Croatia,2022,0.0,0.63
+China,2006,6906.26,0.6
+China,2011,9418.64,4.0
+China,2012,9677.11,1.0
+China,2013,10118.98,1.0
+China,2015,10067.29,0.5
+China,2018,10774.73,0.15
+China,2019,10963.38,4.5
 Denmark,2019,41.39,0.45
 Denmark,2020,39.18,8.5
-Denmark,2021,0.0,13.4
-Denmark,2022,0.0,35.0
-Finland,2021,0.0,0.0
 France,2019,318.97,1.0
 France,2020,285.37,2.85
-France,2021,0.0,17.86
-France,2022,0.0,0.72
 Germany,2019,671.39,1.9
 Germany,2020,617.96,1.0
-Germany,2021,0.0,1.7775
-Germany,2022,0.0,37.8
-Greece,2021,0.0,3.0
-Greece,2022,0.0,1.0
-Iceland,2021,0.0,3.0
-Iceland,2022,0.0,0.036
-India,2021,0.0,0.7
-India,2022,0.0,0.0
 Indonesia,2018,1489.07,2.413793103448276
 Indonesia,2020,1338.85,2.3
-Indonesia,2021,0.0,5.3
-Indonesia,2022,0.0,0.0
 Ireland,2018,64.05,2.5
 Italy,2020,307.73,5.1
-Italy,2022,0.0,0.2
 Japan,2008,1031.61,0.1
 Japan,2016,1112.69,0.18
-Japan,2022,0.0,0.0
 Malaysia,2020,333.63,3.3
-Malaysia,2022,0.0,0.0
 Netherlands,2012,174.8,0.5
 Netherlands,2017,172.63,1.3
 Netherlands,2018,167.31,7.6
 Netherlands,2019,162.25,8.1
 Netherlands,2020,147.46,8.0
-Netherlands,2021,0.0,6.18
-Netherlands,2022,0.0,19.8
 New Zealand,2018,65.78,1.0
 Norway,2016,31.51,0.8
 Norway,2017,31.21,5.5
 Norway,2019,29.77,0.555
 Norway,2020,28.42,10.38
-Norway,2021,0.0,15.2
-Norway,2022,0.0,25.0
-Oman,2022,0.0,0.001
 Papua New Guinea,2018,47.98,1.0
-Poland,2022,0.0,0.0
-Portugal,2022,0.0,0.1
 Qatar,2018,108.13,2.9
 Qatar,2019,110.23,2.1
 Saudi Arabia,2013,588.85,0.8
-Saudi Arabia,2022,0.0,9.0
-Singapore,2022,0.0,2.5
 Sweden,2018,32.74,0.6
 Sweden,2020,30.97,2.65
-Sweden,2021,0.0,2.68
 Switzerland,2020,38.33,0.1
-Thailand,2022,0.0,0.0
 United Arab Emirates,2007,158.13,0.8
 United Arab Emirates,2020,226.73,4.199999999999999
-United Arab Emirates,2021,0.0,0.0
-United Arab Emirates,2022,0.0,0.0
 United Kingdom,2012,531.09,3.0
 United Kingdom,2014,479.18,1.5
 United Kingdom,2016,447.24,1.1
@@ -92,8 +57,6 @@ United Kingdom,2017,432.34,5.0
 United Kingdom,2018,424.87,2.8
 United Kingdom,2019,410.18,19.91
 United Kingdom,2020,372.96,32.14
-United Kingdom,2021,0.0,20.895
-United Kingdom,2022,0.0,12.85
 United States,2008,5634.8,7.82
 United States,2009,5255.68,7.83
 United States,2010,5500.53,1.0569
@@ -104,5 +67,3 @@ United States,2017,5197.07,4.9
 United States,2018,5384.61,4.3
 United States,2019,5279.34,14.9
 United States,2020,4798.22,16.46145
-United States,2021,0.0,72.199
-United States,2022,0.0,96.735
